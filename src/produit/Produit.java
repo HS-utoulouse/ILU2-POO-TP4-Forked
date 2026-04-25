@@ -12,6 +12,11 @@ public abstract class Produit implements IProduit {
 	public String getNom() {
 		return nom;
 	}
+	
+	@Override
+	public int calculerPrix(int prix) {
+		return prix;
+	}
 
 	public abstract String decrireProduit();
 

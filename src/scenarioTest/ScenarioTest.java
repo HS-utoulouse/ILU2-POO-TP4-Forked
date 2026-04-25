@@ -1,7 +1,5 @@
 package scenarioTest;
 
-import villagegaulois.Etal;
-
 public class ScenarioTest {
 
 //	public static void acheterProduit(IEtal[] marche, String produit, int quantiteSouhaitee) {
